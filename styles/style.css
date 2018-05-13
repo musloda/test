@@ -1,0 +1,30 @@
+html {
+  font-size: 20px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+  font-family: 'Lora', serif;
+}
+h1 {
+  font-size: 60px;
+  text-align: left;
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;            
+}
+p, li {
+  font-size: 20px;    
+  line-height: 2;
+  letter-spacing: 1px;
+} html {
+  background-color: #E6E2AF;
+}
+img {
+  display: block;
+  margin: right;
+}          
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
